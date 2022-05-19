@@ -1,0 +1,31 @@
+li {
+  list-style-type: none;
+}
+ul {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #2196f3;
+}
+
+element {
+  --main_color: #ffffff;
+  --main_text_color: #000000;
+  --text_color: #757575;
+  --hover-color: #2196f3;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*главная страница*/
+
+/*шапка профиля*/
+
+/*рабочая облость кнопки*/
